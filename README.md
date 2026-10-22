@@ -29,7 +29,3 @@ Each folder in `skills/` follows the Agent Skills standard that Claude Code and 
 ```
 npx skills add https://github.com/<you>/<this-repo>.git --all -g
 ```
-
-## Starting fresh
-
-The 5 sample prompts and 2 sample skills are only there to show the format. Delete them whenever you like.
