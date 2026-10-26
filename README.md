@@ -1,6 +1,6 @@
 # My Kipt library
 
-Your prompts and skills, as plain files in a private repo you own. [Kipt](https://hotbar-orpin.vercel.app) reads and writes this repo; you can also edit it by hand.
+Your prompts and skills, as plain files in a private repo you own. [Kipt](https://kipt.me) reads and writes this repo; you can also edit it by hand.
 
 ```
 prompts/        one Markdown file per prompt
